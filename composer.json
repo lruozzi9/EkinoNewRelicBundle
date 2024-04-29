@@ -21,7 +21,7 @@
         "symfony/http-kernel": "^5.4|^6.4|^7.0"
     },
     "require-dev": {
-        "matthiasnoback/symfony-dependency-injection-test": "^5.1",
+        "matthiasnoback/symfony-dependency-injection-test": "^4.3|^5.1",
         "symfony/framework-bundle": "^5.4|^6.4|^7.0",
         "symfony/phpunit-bridge": "^5.3|^6.0|^7.0",
         "twig/twig": "^1.32|^2.4|^3.0",
