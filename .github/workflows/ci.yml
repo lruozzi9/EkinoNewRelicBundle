@@ -35,8 +35,6 @@ jobs:
 
           # symfony version
           - php: 8.3
-            symfony: '^5.4'
-          - php: 8.3
             symfony: '^6.4'
           - php: 8.3
             symfony: '^7.0'
