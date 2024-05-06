@@ -18,7 +18,8 @@
         "symfony/console": "^5.4|^6.4|^7.0",
         "symfony/dependency-injection": "^5.4|^6.4|^7.0",
         "symfony/event-dispatcher": "^5.4|^6.4|^7.0",
-        "symfony/http-kernel": "^5.4|^6.4|^7.0"
+        "symfony/http-kernel": "^5.4|^6.4|^7.0",
+        "monolog/monolog": "^3.0"
     },
     "require-dev": {
         "matthiasnoback/symfony-dependency-injection-test": "^4.3|^5.1",
